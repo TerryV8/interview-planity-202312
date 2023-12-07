@@ -1,7 +1,7 @@
 ## The solution of the problem
 
 The solution to the problem involves processing the input file:
-`input.json (input file given)``
+`input.json`
 
 To launch the application, simply run the following command:
 `npm start`

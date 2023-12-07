@@ -3,15 +3,13 @@
 The solution to the problem involves processing the input files:
 
 - input.json (input file given)
-- input_by_thierry.json (my custom input file)
 
-To launch the app, run `npm start`
+To launch the application, simply run the following command:
+`npm start`
 
 The algorithm's time complexity for generating the planning schedule is, on average, O(n log(n)).
 
-You can find the output of the application in the /output directory:
-
-`![Output result](images/output.jpg)`
+You can find a screenshot of the application's output in the file `output.jpg``.
 
 ## The problem
 

@@ -3,7 +3,8 @@
 The solution to the problem involves processing the input file:
 `input.json`
 
-To launch the application, simply run the following command:
+To set up and launch the application, simply run the following command:
+`npm install`
 `npm start`
 
 The algorithm's time complexity for generating the planning schedule is on average O(n log(n)).

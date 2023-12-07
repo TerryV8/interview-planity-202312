@@ -6,9 +6,9 @@ The solution to the problem involves processing the input file:
 To launch the application, simply run the following command:
 `npm start`
 
-The algorithm's time complexity for generating the planning schedule is, on average, O(n log(n)).
+The algorithm's time complexity for generating the planning schedule is on average O(n log(n)).
 
-You can find a screenshot of the application's output in the file `output.jpg``.
+You can find a screenshot of the application's output in `output.jpg``.
 
 ## The problem
 

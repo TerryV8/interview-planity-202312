@@ -1,6 +1,6 @@
 ## The solution of the problem
 
-The solution to the problem involves processing the input files:
+The solution to the problem involves processing the input file:
 `input.json (input file given)``
 
 To launch the application, simply run the following command:

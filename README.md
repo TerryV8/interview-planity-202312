@@ -11,7 +11,7 @@ The algorithm's time complexity for generating the planning schedule is, on aver
 
 You can find the output of the application in the /output directory:
 
-`![Output result](/src/output.jpg)`
+`![Output result](images/output.jpg)`
 
 ## The problem
 

@@ -1,0 +1,29 @@
+.App,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Set a light background fot the entire page */
+html {
+  background-color: rgb(253, 245, 245);
+}
+
+/* Styling for individual appointment slot */
+.AppointmentViewSlot {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border: 1px white solid;
+}
+
+@media screen and (max-width: 768px) {
+  .AppointmentViewSlot {
+    font-size: 12px;
+  }
+}
